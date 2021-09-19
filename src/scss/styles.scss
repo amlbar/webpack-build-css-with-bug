@@ -1,0 +1,12 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 90vh;
+}
+.box {
+	background: url(../../assets/img/shapes.svg) no-repeat;
+	background-size: cover;
+	width: 180px;
+	height: 200px;
+}
